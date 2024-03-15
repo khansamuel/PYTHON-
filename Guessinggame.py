@@ -6,10 +6,8 @@
 #If user guessed lower thn actual number then print "too low "
 #If user guessed higher  thn actual number then print "too high "
 
-#bonus
- ""how to generate random number in python to generate random winning number"
+#bonus""how to generate random number in python to generate random winning number"
 #winning number 
-
 
 import random  # Import the random module for generating random numbers
 
